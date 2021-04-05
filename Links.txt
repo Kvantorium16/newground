@@ -1,0 +1,8 @@
+https://kotlinlang.ru/docs
+https://kotlinlang.org/docs/home.html
+https://play.kotlinlang.org/
+https://developer.android.com/studio/intro/keyboard-shortcuts
+https://developer.android.com/guide/components/fundamentals
+https://developer.android.com/training/basics/firstapp/building-ui
+https://tutorial.eyehunts.com/android/sqlite-database-in-android-kotlin-example/
+https://coderlessons.com/articles/mobilnaia-razrabotka-articles/http-klient-android-get-post-zagruzka-vygruzka-mnogochastnyi-zapros
