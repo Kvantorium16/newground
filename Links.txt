@@ -7,3 +7,4 @@ https://developer.android.com/training/basics/firstapp/building-ui
 https://tutorial.eyehunts.com/android/sqlite-database-in-android-kotlin-example/
 https://coderlessons.com/articles/mobilnaia-razrabotka-articles/http-klient-android-get-post-zagruzka-vygruzka-mnogochastnyi-zapros
 https://developer.android.com/studio
+https://miro.com/app/board/o9J_lNG8g-o=/
