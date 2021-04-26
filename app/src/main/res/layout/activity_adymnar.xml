@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".adymnar">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="254dp"
+        android:layout_height="98dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:text='Полилингвальный комплекс "Адымнар - путь к знаниям и согласию"'
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="120dp"
+        android:layout_height="89dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/z_n1ia0c6ve" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="356dp"
+        android:layout_height="716dp"
+        android:layout_marginTop="270dp"
+        android:text="Обучение в ГАОУ «Полилингвальный образовательный комплекс «Адымнар – путь к знаниям и согласию» г. Казани осуществляется по 3 траекториям: билингвальная, полилингвальная (по выбору родителей) и  общеобразовательная. По билингвальной траектории обучающиеся изучают общеобразовательные предметы на русском и татарском или английском языке. По полилингвальной траектории обучающиеся изучают общеобразовательные предметы на русском, татарском и английском языкам. В полилингвальных классах технология, физическая культура и музыка преподаются на английском языке с 3 класса. География, биология, математика преподаются на английском языке с 7 класса. Преподавание на английском языке осуществляется по технологии CLIL.  В целях формирования единого воспитательного пространства, реализации процесса становления личности в разнообразных видах деятельности, социальной защиты обучающихся и обеспечения условий для проведения внеурочной деятельности на базе комплекса работает 25 бюджетных кружков и 37 на внебюджетной основе, руководителями которых являются педагоги комплекса и педагоги районных учреждений дополнительного образования. У каждого детского объединения имеется своя программа, которая помогает раскрыть творческие способности обучающихся всех возрастов и реализует их в практической деятельности. Спортивные секции- каратэ, айкидо, тхэквандо, футбол, баскетбол, волейбол,  скалолазание, спортивное ориентирование,  синхронное плавание, подводное плавание, способствуют физическому развитию школьников с 1 по 11 классы. 70% обучающихся посещают  кружки в комплексе и спортивные секции. Эти обучающиеся являются победителями районных, городских, республиканских российских конкурсов по различным направлениям.  Комплекс сотрудничает с Институтом филологии и межкультурной коммуникации и Институтом международных отношений КФУ, а так же  является ресурсным центром полилингвальных комплексов РТ.  «Адымнар - Казань» - это современная, высоко оборудованная, технически оснащенная школа.  Главная задача комплекса и учителя заключается в том, чтобы сделать предмет интересным для ребенка, заставить его увидеть за формулами и теоремами настоящие живые явления природы. Использование современных обучающих мультимедийных технологий требует использования в школах современных технических средств обучения, которые позволяют: обогатить педагогический, технологический инструментарий учителей; автоматизировать процессы администрирования.  Средства обучения, используемые в «Адымнар – Казань» позволяют на практике реализовать знания учащихся, это: цифровые проекционные экраны, слайд-проекторы; интерактивные дисплеи, документ-камеры, видеоконференционные  системы,  маркерные доски,  модели, учебные приборы, экранно-звуковые средства обучения, печатные средства обучения, станки, верстаки, инструменты, средства вычислительной техники, школьные учебники.   Один из основных задач ГАОУ «Адымнар-Казань» является раскрыть ребенка в детские годы, дать возможность реализовать свои идеи. Здание нашего современного комплекса нацелено на создание индивидуального и свободного общественно – культурного пространства, в котором ребенок хочет находиться, и в котором он может гулять, учиться, развиваться, радоваться и проводить основное время дня.  В таком пространстве обучающийся с удовольствием осваивается  и развивается  в художественном, духовном и эстетическом плане.  В «Адымнар - Казань» классные помещения и кабинеты для практических работ выполнены с акцентом на существующее единство теории и практики. Функциональный интерьер помогает учиться и познавать мир.  Ежегодно 99% выпускников школы продолжают обучение в высших учебных заведениях г.Казани. Высокий процент поступления учащихся в ВУЗы технического направления, в КФУ на лингвистические направления.  Основным критерием работы педагогического коллектива школы всегда было и остается- движение вперед, в ногу со временем. Какие бы перемены в нашем обществе не происходили, мы - все участники образовательного процесса  «Адымнар—Казань» верим в успех, в созидание, в результативность."
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="117dp"
+        android:layout_height="106dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="24dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView"
+        app:srcCompat="@drawable/__pszrpejnw" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="107dp"
+        android:layout_height="109dp"
+        android:layout_marginStart="6dp"
+        android:layout_marginLeft="6dp"
+        android:layout_marginTop="13dp"
+        app:layout_constraintStart_toEndOf="@+id/imageView2"
+        app:layout_constraintTop_toBottomOf="@+id/textView"
+        app:srcCompat="@drawable/_yc51gp2bd8" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="129dp"
+        android:layout_height="107dp"
+        android:layout_marginTop="14dp"
+        app:layout_constraintStart_toEndOf="@+id/imageView3"
+        app:layout_constraintTop_toBottomOf="@+id/textView"
+        app:srcCompat="@drawable/w6n7x_voqem" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="213dp"
+        tools:layout_editor_absoluteY="253dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" />
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
