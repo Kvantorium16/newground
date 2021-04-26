@@ -9,13 +9,13 @@ class MyDbHelper(context: Context) : SQLiteOpenHelper(context, MyDbNameClass.DAT
 
     override fun onCreate(db: SQLiteDatabase?) {
 
-       db?.execSQL(MyDbNameClass.CREAT_TABLE)
+       db?.execSQL(MyDbNameClass.CREATE_TABLE)
     }
 
     override fun onUpgrade(db: SQLiteDatabase?, oldVersion: Int, newVersion: Int) {
 
-        db?.execSQL(MyDbNameClass.SQL_DELETE_TABLE)
-        onCreate(db)
+       /// db?.execSQL(MyDbNameClass.SQL_DELETE_TABLE)
+       /// onCreate(db)
     }
 
 }
